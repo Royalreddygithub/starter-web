@@ -8,4 +8,8 @@ Sample website with plenty of files for demos
 
 
 ### Contribute
+
 Sample for Contributing
+
+#### COpyright
+
